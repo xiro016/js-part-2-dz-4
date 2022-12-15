@@ -1,0 +1,15 @@
+
+.posts{
+    flex-wrap: wrap;
+    display: flex;
+}
+.post {
+    height: 300px;
+    width: 22%;
+    border: 1px solid;
+    margin: 20px;
+    list-style: none;
+    text-align: center;
+ 
+}
+
